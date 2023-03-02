@@ -65,7 +65,7 @@ class TimeToWordConverter implements TimeToWordConvertingInterface {
 
 
 $converter = new TimeToWordConverter();
-echo $converter->convert(9, 59);
+echo $converter->convert(9, 02);
 
 
 
